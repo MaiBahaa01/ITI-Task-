@@ -1,0 +1,31 @@
+#courses{
+    list-style-type: circle;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#neighbours{
+    list-style-type: circle;
+}
+header{
+    color: rgb(0, 145, 255);
+    font-size: 75px;
+}
+a{
+    color: red;
+}
+b{
+    color: yellow;
+}
+body{
+    background-color: rgb(46, 43, 43);
+   
+}
+p,li{
+    color: white;
+}
+figcaption{
+    color: white;
+}
+

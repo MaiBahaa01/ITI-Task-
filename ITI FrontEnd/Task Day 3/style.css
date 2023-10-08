@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    background-position: center;
+}
+button{
+    color: white;
+    background-color: red;
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
+
